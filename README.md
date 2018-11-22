@@ -9,3 +9,6 @@ An example of a multilayer neural network made from scratch with python
 the processing of the data was carried out with this code: https://github.com/d1sd41n/pre-processing-the-Titanic-Dataset-data-science-example-/blob/master/pre%20processing%20the%20data.ipynb
 
 
+*data_banknote_authentication data set: http://archive.ics.uci.edu/ml/machine-learning-databases/00267/data_banknote_authentication.txt
+
+
